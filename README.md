@@ -1,4 +1,4 @@
-Currency Converte App in Pyhton Version 3.9.1 using Tkinter library.
+Currency Converter App in Pyhton Version 3.9.1 using Tkinter library and RESTful APIs.
 
 
 
